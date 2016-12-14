@@ -1,0 +1,66 @@
+c:\users\taras_strypko\documents\visual studio 2015\Projects\Lab_2_Azure\Lab_2_Azure\obj\Debug\Lab_2_Azure.csprojResolveAssemblyReference.cache
+c:\users\taras_strypko\documents\visual studio 2015\Projects\Lab_2_Azure\Lab_2_Azure\bin\ApplicationInsights.config
+c:\users\taras_strypko\documents\visual studio 2015\Projects\Lab_2_Azure\Lab_2_Azure\bin\roslyn\csc.exe
+c:\users\taras_strypko\documents\visual studio 2015\Projects\Lab_2_Azure\Lab_2_Azure\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\taras_strypko\documents\visual studio 2015\Projects\Lab_2_Azure\Lab_2_Azure\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\taras_strypko\documents\visual studio 2015\Projects\Lab_2_Azure\Lab_2_Azure\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\taras_strypko\documents\visual studio 2015\Projects\Lab_2_Azure\Lab_2_Azure\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\taras_strypko\documents\visual studio 2015\Projects\Lab_2_Azure\Lab_2_Azure\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\taras_strypko\documents\visual studio 2015\Projects\Lab_2_Azure\Lab_2_Azure\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\taras_strypko\documents\visual studio 2015\Projects\Lab_2_Azure\Lab_2_Azure\bin\roslyn\System.Collections.Immutable.dll
+c:\users\taras_strypko\documents\visual studio 2015\Projects\Lab_2_Azure\Lab_2_Azure\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\taras_strypko\documents\visual studio 2015\Projects\Lab_2_Azure\Lab_2_Azure\bin\roslyn\vbc.exe
+c:\users\taras_strypko\documents\visual studio 2015\Projects\Lab_2_Azure\Lab_2_Azure\bin\roslyn\VBCSCompiler.exe
+c:\users\taras_strypko\documents\visual studio 2015\Projects\Lab_2_Azure\Lab_2_Azure\bin\roslyn\VBCSCompiler.exe.config
+c:\users\taras_strypko\documents\visual studio 2015\Projects\Lab_2_Azure\Lab_2_Azure\bin\Lab_2_Azure.dll.config
+c:\users\taras_strypko\documents\visual studio 2015\Projects\Lab_2_Azure\Lab_2_Azure\bin\Lab_2_Azure.dll
+c:\users\taras_strypko\documents\visual studio 2015\Projects\Lab_2_Azure\Lab_2_Azure\bin\Lab_2_Azure.pdb
+c:\users\taras_strypko\documents\visual studio 2015\Projects\Lab_2_Azure\Lab_2_Azure\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\taras_strypko\documents\visual studio 2015\Projects\Lab_2_Azure\Lab_2_Azure\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\taras_strypko\documents\visual studio 2015\Projects\Lab_2_Azure\Lab_2_Azure\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\taras_strypko\documents\visual studio 2015\Projects\Lab_2_Azure\Lab_2_Azure\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\taras_strypko\documents\visual studio 2015\Projects\Lab_2_Azure\Lab_2_Azure\bin\Microsoft.AI.Web.dll
+c:\users\taras_strypko\documents\visual studio 2015\Projects\Lab_2_Azure\Lab_2_Azure\bin\Microsoft.AI.WindowsServer.dll
+c:\users\taras_strypko\documents\visual studio 2015\Projects\Lab_2_Azure\Lab_2_Azure\bin\Microsoft.ApplicationInsights.dll
+c:\users\taras_strypko\documents\visual studio 2015\Projects\Lab_2_Azure\Lab_2_Azure\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\taras_strypko\documents\visual studio 2015\Projects\Lab_2_Azure\Lab_2_Azure\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\taras_strypko\documents\visual studio 2015\Projects\Lab_2_Azure\Lab_2_Azure\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\taras_strypko\documents\visual studio 2015\Projects\Lab_2_Azure\Lab_2_Azure\bin\Microsoft.AI.Web.xml
+c:\users\taras_strypko\documents\visual studio 2015\Projects\Lab_2_Azure\Lab_2_Azure\bin\Microsoft.AI.WindowsServer.xml
+c:\users\taras_strypko\documents\visual studio 2015\Projects\Lab_2_Azure\Lab_2_Azure\bin\Microsoft.ApplicationInsights.xml
+c:\users\taras_strypko\documents\visual studio 2015\Projects\Lab_2_Azure\Lab_2_Azure\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\taras_strypko\documents\visual studio 2015\Projects\Lab_2_Azure\Lab_2_Azure\obj\Debug\Lab_2_Azure.dll
+c:\users\taras_strypko\documents\visual studio 2015\Projects\Lab_2_Azure\Lab_2_Azure\obj\Debug\Lab_2_Azure.pdb
+E:\6 курс\Ровецький\Azure_Labs (1)\New folder\Lab_2_Azure\Lab_2_Azure\bin\ApplicationInsights.config
+E:\6 курс\Ровецький\Azure_Labs (1)\New folder\Lab_2_Azure\Lab_2_Azure\bin\roslyn\csc.exe
+E:\6 курс\Ровецький\Azure_Labs (1)\New folder\Lab_2_Azure\Lab_2_Azure\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\6 курс\Ровецький\Azure_Labs (1)\New folder\Lab_2_Azure\Lab_2_Azure\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\6 курс\Ровецький\Azure_Labs (1)\New folder\Lab_2_Azure\Lab_2_Azure\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\6 курс\Ровецький\Azure_Labs (1)\New folder\Lab_2_Azure\Lab_2_Azure\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\6 курс\Ровецький\Azure_Labs (1)\New folder\Lab_2_Azure\Lab_2_Azure\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\6 курс\Ровецький\Azure_Labs (1)\New folder\Lab_2_Azure\Lab_2_Azure\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\6 курс\Ровецький\Azure_Labs (1)\New folder\Lab_2_Azure\Lab_2_Azure\bin\roslyn\System.Collections.Immutable.dll
+E:\6 курс\Ровецький\Azure_Labs (1)\New folder\Lab_2_Azure\Lab_2_Azure\bin\roslyn\System.Reflection.Metadata.dll
+E:\6 курс\Ровецький\Azure_Labs (1)\New folder\Lab_2_Azure\Lab_2_Azure\bin\roslyn\vbc.exe
+E:\6 курс\Ровецький\Azure_Labs (1)\New folder\Lab_2_Azure\Lab_2_Azure\bin\roslyn\VBCSCompiler.exe
+E:\6 курс\Ровецький\Azure_Labs (1)\New folder\Lab_2_Azure\Lab_2_Azure\bin\roslyn\VBCSCompiler.exe.config
+E:\6 курс\Ровецький\Azure_Labs (1)\New folder\Lab_2_Azure\Lab_2_Azure\bin\Lab_2_Azure.dll.config
+E:\6 курс\Ровецький\Azure_Labs (1)\New folder\Lab_2_Azure\Lab_2_Azure\bin\Lab_2_Azure.dll
+E:\6 курс\Ровецький\Azure_Labs (1)\New folder\Lab_2_Azure\Lab_2_Azure\bin\Lab_2_Azure.pdb
+E:\6 курс\Ровецький\Azure_Labs (1)\New folder\Lab_2_Azure\Lab_2_Azure\bin\Microsoft.AI.Agent.Intercept.dll
+E:\6 курс\Ровецький\Azure_Labs (1)\New folder\Lab_2_Azure\Lab_2_Azure\bin\Microsoft.AI.DependencyCollector.dll
+E:\6 курс\Ровецький\Azure_Labs (1)\New folder\Lab_2_Azure\Lab_2_Azure\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\6 курс\Ровецький\Azure_Labs (1)\New folder\Lab_2_Azure\Lab_2_Azure\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\6 курс\Ровецький\Azure_Labs (1)\New folder\Lab_2_Azure\Lab_2_Azure\bin\Microsoft.AI.Web.dll
+E:\6 курс\Ровецький\Azure_Labs (1)\New folder\Lab_2_Azure\Lab_2_Azure\bin\Microsoft.AI.WindowsServer.dll
+E:\6 курс\Ровецький\Azure_Labs (1)\New folder\Lab_2_Azure\Lab_2_Azure\bin\Microsoft.ApplicationInsights.dll
+E:\6 курс\Ровецький\Azure_Labs (1)\New folder\Lab_2_Azure\Lab_2_Azure\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\6 курс\Ровецький\Azure_Labs (1)\New folder\Lab_2_Azure\Lab_2_Azure\bin\Microsoft.AI.DependencyCollector.xml
+E:\6 курс\Ровецький\Azure_Labs (1)\New folder\Lab_2_Azure\Lab_2_Azure\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\6 курс\Ровецький\Azure_Labs (1)\New folder\Lab_2_Azure\Lab_2_Azure\bin\Microsoft.AI.Web.xml
+E:\6 курс\Ровецький\Azure_Labs (1)\New folder\Lab_2_Azure\Lab_2_Azure\bin\Microsoft.AI.WindowsServer.xml
+E:\6 курс\Ровецький\Azure_Labs (1)\New folder\Lab_2_Azure\Lab_2_Azure\bin\Microsoft.ApplicationInsights.xml
+E:\6 курс\Ровецький\Azure_Labs (1)\New folder\Lab_2_Azure\Lab_2_Azure\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\6 курс\Ровецький\Azure_Labs (1)\New folder\Lab_2_Azure\Lab_2_Azure\obj\Debug\Lab_2_Azure.csprojResolveAssemblyReference.cache
+E:\6 курс\Ровецький\Azure_Labs (1)\New folder\Lab_2_Azure\Lab_2_Azure\obj\Debug\Lab_2_Azure.dll
+E:\6 курс\Ровецький\Azure_Labs (1)\New folder\Lab_2_Azure\Lab_2_Azure\obj\Debug\Lab_2_Azure.pdb
